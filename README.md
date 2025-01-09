@@ -86,8 +86,8 @@ Gross Margin is gross profit expressed in percentage of the total(gross profit/r
 
 ## Code
 Answers related to all Business questions are coded in SQL.
-Software used: [PostgreSQL](https://www.postgresql.org/)
-Code : [WalmartSale_SQL_Queries](https://github.com/GAYATRI-SIVANI-SUSARLA/WalmartSalesAnalysis_SQL/blob/main/walmart_sales_sql.sql)
+- Software used: [PostgreSQL](https://www.postgresql.org/)
+- Code : [WalmartSale_SQL_Queries](https://github.com/GAYATRI-SIVANI-SUSARLA/WalmartSalesAnalysis_SQL/blob/main/walmart_sales_sql.sql)
 
 ### Conclusion
 The analysis reveals the top-performing branches, cities, and product lines driving revenue, while underperforming areas need strategic improvements. Sales trends by month and time highlight seasonal variations and peak periods, aiding in better resource allocation. Customer segmentation shows the most profitable types and gender-specific preferences, enabling targeted marketing strategies. High-rating times and days provide insights to enhance customer satisfaction. Holiday markdowns significantly affect sales, offering opportunities to refine discounting strategies. Overall, the data guides optimizing products, sales strategies, and customer engagement for increased profitability.
